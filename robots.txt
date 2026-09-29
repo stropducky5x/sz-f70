@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stropducky5x.github.io/sz-f70/sitemap.xml
